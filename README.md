@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgur.com/hUnblSK.png"  />
+<img align="right" height="200" src="https://i.imgur.com/6uQ7jjL.png"  />
 
 ###
